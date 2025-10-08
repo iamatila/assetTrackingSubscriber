@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-app",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "ably": "^2.14.0",
+    "dotenv": "^17.2.3",
+    "leaflet": "^1.9.4",
+    "nuxt": "^4.1.2",
+    "vue": "^3.5.22",
+    "vue-leaflet": "^0.1.0",
+    "vue-router": "^4.5.1"
+  }
+}
