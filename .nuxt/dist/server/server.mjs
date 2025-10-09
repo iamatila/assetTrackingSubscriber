@@ -1,1 +1,0 @@
-export { default } from "file:///C:/gochacha/gochacha_test/asset_tracking_subscriber/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
